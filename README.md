@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**stepper395/stepper395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Peter Matu 👋
 
-Here are some ideas to get you started:
+### Software Developer | Cybersecurity | AI Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an Information Technology professional focused on
+building practical software, secure systems and
+AI-powered applications.
+
+## About Me
+
+- 💻 Developing software using Python
+- 🔐 Exploring cybersecurity and security monitoring
+- 🤖 Building AI-powered applications and automation
+- 🗄️ Learning backend engineering and database systems
+- 🚀 Interested in solving real-world technology problems
+
+## Technical Interests
+
+- Software Engineering
+- Backend Development
+- Cybersecurity
+- Artificial Intelligence
+- Data Analysis
+- Systems Administration
+
+## Technologies
+
+Python | FastAPI | SQL | PostgreSQL
+Git | GitHub | Linux | JavaScript
+HTML | CSS | Pandas
+
+## Current Projects
+
+Projects will be added here as they are developed.
+
+## My Goal
+
+To build reliable, secure and intelligent technology
+solutions while continuously improving my engineering skills.
+
+## Connect With Me
+
+- GitHub: https://github.com/stepper395
+- Email: peterwarui780@gmail.com
